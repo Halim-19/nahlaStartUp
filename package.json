@@ -2,6 +2,7 @@
   "name": "beehive",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://github.com/Halim-19/nahlaStartUp",
   "type": "module",
   "scripts": {
     "dev": "vite",
